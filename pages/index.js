@@ -21,7 +21,8 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello I am Marcel and huge fan of FrontEnd Development</p>
+        <p>Hi there, my name is Marcel and I graduated as mechanical engineer. As a mechanical engineer I designed welding tools for car lights or machines for manufacturing lithium-ion batteries for cell-phones, laptops or cars.</p>
+        <p>As a big enthusiast of an engineering but web develompent aswell I decided after over one decade as mechanical engineer try web develompent. My favourite area is FrontEnd develompent and everything around (and still learning) ReacJS. Aswell a huge fan of sport, food and technologies.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
